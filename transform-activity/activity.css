@@ -1,3 +1,6 @@
 main {
-
+    transform: rotate(-10deg);
+}
+.info {
+    transform: skew(-5deg, -5deg);
 }
