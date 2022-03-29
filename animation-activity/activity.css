@@ -30,7 +30,7 @@
 
 nav {
   opacity: 0;
-  transition-duration: 1s;
+  transition-duration: 5s;
 }
 
 .hamburger:hover ~ nav {
